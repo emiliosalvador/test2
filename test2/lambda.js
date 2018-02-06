@@ -8,7 +8,7 @@ exports.handler = function (event, context, callback) {
 			console.log(data);           // successful response
 			/*
 			data = {
-				LocationConstraint: "us-west-2 test2"
+				LocationConstraint: "us-west-2 test3"
 			}
 			*/
 		})
